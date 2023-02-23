@@ -27,7 +27,7 @@ def load_mnist(file_dir, is_images=True):
 
 
 def get_mnist_data():
-    mnist_dir = "E:/机器学习/ML/ex2/LeNet5-main/LeNet5-main/data"
+    mnist_dir = "E:/机器学习/ex2/data"
     train_data_dir = "train-images.idx3-ubyte"
     train_label_dir = "train-labels.idx1-ubyte"
     test_data_dir = "t10k-images.idx3-ubyte"
